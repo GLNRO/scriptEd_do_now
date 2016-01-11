@@ -1,0 +1,22 @@
+body {
+  margin:0px;
+  padding:0px;
+}
+
+#background{
+  position:absolute;
+  width:100%;
+}
+
+#font{
+  position:relative;
+  float:right;
+  padding-top:30%;
+  width:58%;
+}
+
+#player{
+  position:absolute;
+  margin-bottom:0px;
+
+}
