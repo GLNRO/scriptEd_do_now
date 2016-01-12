@@ -2,7 +2,7 @@
 
 ***Open the index.html page in the browser and it should display the image below***
 
-![Alt text](knicks.png = 250x200)
+![Alt text](knicks.png)
 
 
 What heppens when you open your page? Did you notice that the image tags are missing their links?
